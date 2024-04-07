@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New';
+}
+.red {
+    border: 4px double gainsboro;
+    padding: 25px;
+    border-radius: 30px 10px;
+    color: black;
+
+}
+
+.h4 {
+    border: 4px double gainsboro;
+    padding: 25px;
+    color: blueviolet;
+}
+
+.logo {
+    width: 170px;
+    height: 200px;
+}

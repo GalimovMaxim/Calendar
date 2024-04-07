@@ -1,0 +1,28 @@
+.main {
+    border: 2px solid grey;
+    width: 300px; 
+    margin: auto auto; 
+    text-align:center; 
+    padding: 6px;
+}
+.maintr{
+    border:1px solid black
+}
+
+
+.maintd{
+    border:1px solid black;
+    color:grey}
+
+.maintd1{
+    border:1px solid black;
+    color:red;
+}
+
+.maintd2{
+    border:1px solid black;
+}
+
+#dr{
+    cursor: pointer;
+}
